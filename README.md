@@ -3,6 +3,8 @@
 
 Trek is a multi-language messaging app built with Ruby on Rails. Users can select their language of choice and while messaging another user it will translate their text to the recipient's language and vice-versa. This app implements the Google cloud translate API to translate the text. There is also a voice to text feature included as well.
 
+[Video Demo](https://youtu.be/lHwy91gsoqw)
+
 ## Getting Started
 
 Fork and clone this repository and run `bundle install`.
